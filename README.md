@@ -1,4 +1,4 @@
-#deployed on netflify
+# Deployed on netflify
 https://weatherapplication24.netlify.app/
 
 # weather-web-app
